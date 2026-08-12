@@ -131,6 +131,22 @@ O estudo foi dividido nos seguintes tópicos:
 
 ### Ferramenta prática
 
+# 📖 4. Curadoria das Fontes
+
+A seleção das fontes é uma etapa importante do projeto.
+
+Foram priorizadas fontes abertas, documentação oficial e materiais técnicos que possam ser utilizados para validar as informações obtidas durante o estudo.
+
+## Fontes selecionadas
+
+| # | Fonte | Tipo | Objetivo |
+|---|---|---|---|
+| 1 | Wireshark Documentation | Documentação | Estudo da ferramenta Wireshark |
+| 2 | RFC 791 — Internet Protocol | RFC | Fundamentos do IPv4 |
+| 3 | RFC 793 — Transmission Control Protocol | RFC | Funcionamento do TCP |
+| 4 | RFC 768 — User Datagram Protocol | RFC | Funcionamento do UDP |
+| 5 | RFC 1034/1035 — Domain Names | RFC | Funcionamento do DNS |
+
 **Wireshark**
 
 O Wireshark será utilizado para relacionar os conceitos teóricos estudados com pacotes reais capturados em um ambiente de laboratório.
